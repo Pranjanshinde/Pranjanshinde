@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Js,React,Redux,Typescript,JSON server,MongoDBoDB,**
 
-- 👨‍💻 All of my projects are available at [https://Pranjanshinde.github.io/](https://Pranjanshinde.github.io/)
+- 👨‍💻 All of my projects are available at [https://Pranjanshinde.github.io](https://Pranjanshinde.github.io)
 
 - 💬 Ask me about **Js,React,Redux,Typescript,JSON server,MongoDB**
 
