@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Js,React,Redux,Typescript,JSON server,MongoDBoDB,**
 
-- 👨‍💻 All of my projects are available at [https://Pranjanshinde.github.io](https://Pranjanshinde.github.io)
+- 👨‍💻 All of my projects are available at [https://Pranjanshinde.github.io/](https://Pranjanshinde.github.io/)
 
 - 💬 Ask me about **Js,React,Redux,Typescript,JSON server,MongoDB**
 
 - 📫 How to reach me **pranjanshinde10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cMOUOkq70PZvns8Y1LB3gtQvVxgDo90B/view?usp=share_link](https://drive.google.com/file/d/1cMOUOkq70PZvns8Y1LB3gtQvVxgDo90B/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cMOUOkq70PZvns8Y1LB3gtQvVxgDo90B/view?usp=share_link/](https://drive.google.com/file/d/1cMOUOkq70PZvns8Y1LB3gtQvVxgDo90B/view?usp=share_link/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
